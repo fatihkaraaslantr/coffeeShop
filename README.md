@@ -15,3 +15,7 @@ Duyarlı Tasarım (Responsive Design): Mobil, tablet ve masaüstü cihazlarda uy
 <h6>Kafe Menüsü:</h6>
 
 Şık bir şekilde düzenlenmiş kafe menüsü, ürünlerin görselleri ve açıklamaları ile kullanıcıya sunulur.
+
+<h2>Ekran Görüntüsü</h2>
+
+![](./assets/project.gif)
